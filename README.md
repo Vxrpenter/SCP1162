@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This fork has been archived because it is no longer needed. New changes to this project will now be directly commited to the original repo by [Marikider](https://github.com/Marikider)
+> This fork has been archived because it is no longer needed. New changes to this project will now be directly commited to the original repo by [Marikider](https://github.com/Marikider).
 > If you want to download newer versions then do that [here](https://github.com/Marikider/SCP1162)
 
 <div align="center">
